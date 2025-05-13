@@ -3,6 +3,8 @@ body{
 }
 
 footer{background-color: darkred;
+       position: fixed;
 color: white;
 bottom: 0;
+width: 100%;
 }
