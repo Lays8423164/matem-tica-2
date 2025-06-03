@@ -17,7 +17,7 @@ display: flex;
 
 .cartao__conteudo {
     text-align: center;
-    background-color: blue;
+    background-color: rgba(226, 0, 106, 0.63);
     height: 100%;
 }
 footer{
